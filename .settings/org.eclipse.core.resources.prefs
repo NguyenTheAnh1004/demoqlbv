@@ -1,13 +1,11 @@
 eclipse.preferences.version=1
 encoding//src/BLL/accountBLL.java=UTF-8
 encoding//src/BLL/bacsiBLL.java=UTF-8
-encoding//src/BLL/benhnhanBLL.java=UTF-8
 encoding//src/BLL/hsbaBLL.java=UTF-8
 encoding//src/BLL/khambenhBLL.java=UTF-8
 encoding//src/BLL/nhanvienBLL.java=UTF-8
 encoding//src/DAL/accountDAL.java=UTF-8
 encoding//src/DAL/bacsiDAL.java=UTF-8
-encoding//src/DAL/benhnhanDAL.java=UTF-8
 encoding//src/DAL/hsbaDAL.java=UTF-8
 encoding//src/DAL/khambenhDAL.java=UTF-8
 encoding//src/DAL/nhanvienDAL.java=UTF-8
